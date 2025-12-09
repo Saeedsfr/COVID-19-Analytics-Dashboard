@@ -5,6 +5,25 @@ This project demonstrates end‑to‑end data exploration, interactive visualiza
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### 🏠 Home Page
+![Home Page](assets/dashboard_home.png)
+
+### 🌍 Global Overview
+![Global Overview](assets/dashboard_global_overview.png)
+
+### 🇺🇸 Country Analysis
+![Country Analysis](assets/dashboard_country_analysis.png)
+
+### 📈 Global Trends
+![Global Trends](assets/dashboard_global_trends.png)
+
+### 🔥 Global Heatmap
+![Global Heatmap](assets/dashboard_heatmap.png)
+
+---
+
 ## 🚀 Features
 
 ### ✅ Multi‑page dashboard structure
@@ -62,11 +81,16 @@ This project demonstrates end‑to‑end data exploration, interactive visualiza
 │   ├── 2_Country Analysis.py
 │   ├── 3_Global Trends.py
 │   └── 4_Global Heatmap.py
-└── .streamlit/
-    └── config.toml
-```
+├── .streamlit/
+│   └── config.toml
+└── assets/
+    ├── dashboard_home.png
+    ├── dashboard_global_overview.png
+    ├── dashboard_country_analysis.png
+    ├── dashboard_global_trends.png
+    └── dashboard_heatmap.png
 
----
+```
 
 ## 📚 Data Sources
 
