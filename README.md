@@ -138,12 +138,6 @@ venv\Scripts\activate         # Windows
 pip install -r requirements.txt
 ```
 
-If you don’t have a `requirements.txt`, generate it:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ### 4️⃣ Run the app
 
 ```bash
